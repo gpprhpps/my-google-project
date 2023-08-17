@@ -1,0 +1,19 @@
+.main{
+ width: 100%;
+ text-align: center;
+}
+.main > input{
+ width: 580px;
+ border: 1px solid rgb(190, 190, 190);
+ height: 40px;
+ border-radius: 50px;
+}
+
+.main > button{
+ background-color: #f8f9fa;
+ border: none;
+ padding: 10px;
+ border-radius: 5px;
+ font-family: arial,sans-serif;
+ font-size: 14px;
+}
